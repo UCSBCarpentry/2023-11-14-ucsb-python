@@ -9,7 +9,7 @@ title: Setup
 For this workshop, we will use a web-based Python environment, JupyterHub, that
 UCSB Letters & Science IT has graciously setup for us:
 
-[Use your UCSB NETID to sign into the JupyterHub.](https://carpentryworkshop.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCSBCarpentry%2Fpython-ecology-data&urlpath=lab%2Ftree%2Fpython-ecology-data%2Flesson-01.ipynb&branch=main)
+[Use your UCSB NETID to sign into the JupyterHub.](https://carpentryworkshop.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCSBCarpentry%2Fpython-ecology-data&urlpath=lab%2Ftree%2Fpython-ecology-data%2F&branch=main)
 
 If you prefer to use Python on your own computer, you may use the setup
 instructions below, but this is not required.
