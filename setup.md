@@ -4,7 +4,25 @@ title: Setup
 
 ::::::::::::::::::::::::::::::::::::::::::  prereq
 
+## JupyterHub
+
+For this workshop, we will use a web-based Python environment, JupyterHub, that
+UCSB Letters & Science IT has graciously setup for us:
+
+[Use your UCSB NETID to sign into the JupyterHub.](https://carpentryworkshop.lsit.ucsb.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FUCSBCarpentry%2Fpython-ecology-data&urlpath=lab%2Ftree%2Fpython-ecology-data%2Flesson-01.ipynb&branch=main)
+
+If you prefer to use Python on your own computer, you may use the setup
+instructions below, but this is not required.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+
+::::::::::::::::::::::::::::::::::::::::::  prereq
+
 ## Data
+
+These files should already be downloaded if you are using JupyterHub (see above).
 
 Data for this lesson is from the
 [Portal Project Teaching Database](https://figshare.com/articles/Portal_Project_Teaching_Database/1314459).
@@ -46,7 +64,9 @@ version 3.x (e.g., 3.6 is fine).
 
 ## Installing Anaconda
 
-Select your operating system from the options below.
+This *is not* necessary if you are using JupyterHub. If you still want to
+install Anaconda on your local computer, select your operating system from the
+options below.
 
 :::::::::::::::::::::::::::::::::
 
